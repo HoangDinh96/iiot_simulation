@@ -16,6 +16,3 @@ Each protocol has:
 - **A client/simulation** (to send real sensor data)
 - **A visualization script** (to plot live data using Matplotlib)
 
----
-
-## 📂 **Project Structure**
